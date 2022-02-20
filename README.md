@@ -6,7 +6,6 @@ Twitter Bot posting daily Birthday of Famous Indian using DBpedia data
 Live - https://twitter.com/OntologyBot
 
 
-
 ## About
 
 DBpedia is a crowd-sourced community effort to extract structured content from the information created in various Wikimedia projects. This structured information resembles an open knowledge graph (OKG) which is available for everyone on the Web
