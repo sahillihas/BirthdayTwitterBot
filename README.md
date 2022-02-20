@@ -3,7 +3,23 @@
 
 Twitter Bot posting daily Birthday of Famous Indian using DBpedia data
 
+Live - https://twitter.com/OntologyBot
 
+
+
+## About
+
+DBpedia is a crowd-sourced community effort to extract structured content from the information created in various Wikimedia projects. This structured information resembles an open knowledge graph (OKG) which is available for everyone on the Web
+
+We get the required information from DBpedia using SPARQL queries (https://dbpedia.org/sparql).
+
+Filtering the people's on the basis of Nationality and their Day and Month of Birth we are able to find the required set of data.
+
+This data is further processed and summarized so that we can get the required information only.
+
+Using Tweepy, we get access to Twitter API v2.0 and after authentication and further summarization and trimming of the data, we pass it on to the API which helps us post the tweet.
+
+We had deployed our Bot and it is posting tweets daily at 18:00 IST.
 
 ## Deployment
 
